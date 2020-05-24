@@ -1,0 +1,11 @@
+{
+	"name": "org.nodems.example",
+	"alias": "example-plugin",
+	"folder": "src/plugin/org.nodems.example",
+	"version": "0.0.1",
+	"reference": "https://github.com/allnulled/example-plugin.git",
+	"author": {
+		"name": "allnulled",
+		"references": ["https://github.com/allnulled"]
+	}
+}
